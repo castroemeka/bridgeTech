@@ -1,0 +1,13 @@
+{
+  "name": "techbridge-task-management",
+  "version": "1.0.0",
+  "description": "TechBridge Task 7 REST API and dashboard integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

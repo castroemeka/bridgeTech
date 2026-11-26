@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "TechBridge Landing Page",
+    "description": "Build a responsive landing page that introduces TechBridge and communicates the program clearly.",
+    "status": "Completed",
+    "details": "Focus on semantic HTML, responsive CSS, clear sections, navigation and a strong call to action."
+  },
+  {
+    "id": 2,
+    "title": "Multi-page Website",
+    "description": "Expand the TechBridge experience into a connected set of pages with consistent navigation and styling.",
+    "status": "Completed",
+    "details": "Create reusable visual patterns across pages and make sure links, layout and responsive behavior work together."
+  },
+  {
+    "id": 3,
+    "title": "Interactive JavaScript Features",
+    "description": "Add meaningful client-side interactions that make the website feel like a working product.",
+    "status": "Completed",
+    "details": "Use DOM selection, events, conditional logic and dynamic content instead of relying only on static HTML."
+  },
+  {
+    "id": 4,
+    "title": "Responsive Design",
+    "description": "Make the TechBridge website usable and visually consistent on desktop, tablet and mobile screens.",
+    "status": "In Progress",
+    "details": "Pay attention to navigation, spacing, typography, cards, buttons and content flow at smaller breakpoints."
+  },
+  {
+    "id": 5,
+    "title": "Challenge Hub",
+    "description": "Build a hub where interns can explore focused challenges and practise frontend skills.",
+    "status": "In Progress",
+    "details": "Organise challenges clearly, provide useful descriptions and connect the hub to the wider TechBridge website."
+  },
+  {
+    "id": 6,
+    "title": "Interactive Intern Dashboard",
+    "description": "Create this dashboard for tracking internship progress, tasks, technologies and challenges.",
+    "status": "In Progress",
+    "details": "Generate tasks from JavaScript data, calculate progress, filter statuses, open task details and switch technology information without refreshing."
+  },
+  {
+    "id": 7,
+    "title": "Modern Web Technologies",
+    "description": "Explore frontend frameworks and backend technologies used to build complete modern platforms.",
+    "status": "Not Started",
+    "details": "Research and explain Next.js, Vue.js, Angular and backend technologies such as Node.js, Express.js, Django, Flask, Laravel and .NET."
+  },
+  {
+    "id": 8,
+    "title": "Final Integration & Polish",
+    "description": "Bring the internship work together, test the experience and prepare the project for submission.",
+    "status": "Not Started",
+    "details": "Check navigation, responsiveness, accessibility, JavaScript behaviour, project organisation and the overall quality of the finished platform."
+  }
+]
